@@ -1,10 +1,10 @@
 ---
 pubDatetime: 2024-04-18T21:09:53Z
 modDatetime: 2024-04-18T21:59:40Z
-title: "The Art of Letting Go: Embracing Collaboration over Control"
+title: "Letting Go: Embracing Collaboration over Control"
 featured: true
 draft: false
-description: A letter to my pre-CS2101 self on learning to relinquish control for collective creativity.
+description: A letter to my pre-CS2101 self on learning to relinquish control for effective communication.
 ---
 
 ### To my past self,
