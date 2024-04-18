@@ -6,8 +6,8 @@ export const SITE: Site = {
   desc: "Min Rei's Blog.",
   title: "Min Rei's Blog",
   ogImage: "",
-  lightAndDarkMode: true,
-  postPerPage: 3,
+  lightAndDarkMode: false,
+  postPerPage: 5,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 

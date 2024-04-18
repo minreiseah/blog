@@ -12,6 +12,8 @@ description: "EXAMPLE POST: About Tailwind Typography Plugin and how you can use
 
 > This article is from [TailwindLabs](https://tailwindcss-typography.vercel.app/). I put this article to demonstrate how you can write blog posts/articles using AstroPaper theme.
 
+Test.
+
 By default, Tailwind removes all of the default browser styling from paragraphs, headings, lists and more. This ends up being really useful for building application UIs because you spend less time undoing user-agent styles, but when you _really are_ just trying to style some content that came from a rich-text editor in a CMS or a markdown file, it can be surprising and unintuitive.
 
 We get lots of complaints about it actually, with people regularly asking us things like:
@@ -134,7 +136,7 @@ Hopefully that looks good enough to you.
 Nested lists basically always look bad which is why editors like Medium don't even let you do it, but I guess since some of you goofballs are going to do it we have to carry the burden of at least making it work.
 
 1. **Nested lists are rarely a good idea.**
-   - You might feel like you are being really "organized" or something but you are just creating a gross shape on the screen that is hard to read.
+   - You might feel like you are being really "organized" or something but you are just reating a gross shape on the screen that is hard to read.
    - Nested navigation in UIs is a bad idea too, keep things as flat as possible.
    - Nesting tons of folders in your source code is also not helpful.
 2. **Since we need to have more items, here's another one.**
