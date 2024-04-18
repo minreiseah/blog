@@ -1,7 +1,7 @@
 ---
 author: Simon Smale
 pubDatetime: 2024-01-03T20:40:08Z
-modDatetime: 2024-01-08T18:59:05Z
+modDatetime: 2024-04-18T19:54:08Z
 title: How to use Git Hooks to set Created and Modified Dates
 featured: false
 draft: false
@@ -13,6 +13,8 @@ description: How to use Git Hooks to set your Created and Modified Dates on Astr
 ---
 
 In this post I will explain how to use the pre-commit Git hook to automate the input of the created (`pubDatetime`) and modified (`modDatetime`) in the AstroPaper blog theme frontmatter
+
+Test change.
 
 ## Table of contents
 
