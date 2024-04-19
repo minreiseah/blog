@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2024-04-18T21:09:53Z
-modDatetime: 2024-04-18T21:59:40Z
+modDatetime: 2024-04-19T07:01:11Z
 title: "Letting Go: Embracing Collaboration over Control"
 featured: true
 draft: false
@@ -12,6 +12,12 @@ description: A letter to my pre-CS2101 self on learning to relinquish control fo
 You asked God for strength, and God gave you [CS2101: Effective Communication for Computing Professionals](https://nusmods.com/courses/CS2101/effective-communication-for-computing-professionals). As you stand on the precipice of this academic endeavour, let me guide you through some of the misconceptions you currently hold, concerning the nature of collaboration and control within group dynamics.
 
 CS2101 is where you trade your director's hat for an actor's script. It's not just okay to let go; it's liberating. You'll find that the stage is more exhilarating when you share it with others.
+
+```java
+public static void main (String[] args) {
+    System.out.println("hello world!");
+}
+```
 
 ## Misconception #1: Control Guarantees Perfection
 
