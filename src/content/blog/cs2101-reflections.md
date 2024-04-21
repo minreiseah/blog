@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2024-04-18T21:09:53Z
-modDatetime: 2024-04-21T11:18:56Z
+modDatetime: 2024-04-21T17:04:37Z
 title: "Letting Go: Embracing Collaboration over Control"
 featured: true
 draft: false
@@ -15,7 +15,7 @@ As you stand on the precipice of this academic endeavour, let me guide you throu
 
 You'll find that CS2101 is where you trade your director's hat for an actor's script. It's not just okay to let go, it's _liberating_. The stage is more exhilarating when you share it with others.
 
-## Misconception #1: Control Guarantees Perfection in Presentations
+## Misconception #1: Control Guarantees Perfection
 
 You faced OP1 with a director's mindset, intending to script your group's every move. The approach quickly revealed its flaws.
 
