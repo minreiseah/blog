@@ -1,6 +1,6 @@
 ---
 pubDatetime: 2024-04-18T21:09:53Z
-modDatetime: 2024-04-19T07:01:11Z
+modDatetime: 2024-04-21T11:18:56Z
 title: "Letting Go: Embracing Collaboration over Control"
 featured: true
 draft: false
@@ -9,46 +9,42 @@ description: A letter to my pre-CS2101 self on learning to relinquish control fo
 
 ### To my past self,
 
-You asked God for strength, and God gave you [CS2101: Effective Communication for Computing Professionals](https://nusmods.com/courses/CS2101/effective-communication-for-computing-professionals). As you stand on the precipice of this academic endeavour, let me guide you through some of the misconceptions you currently hold, concerning the nature of collaboration and control within group dynamics.
+You asked God for strength, and God gave you _CS2101: Effective Communication for Computing Professionals_.
 
-CS2101 is where you trade your director's hat for an actor's script. It's not just okay to let go; it's liberating. You'll find that the stage is more exhilarating when you share it with others.
+As you stand on the precipice of this academic endeavour, let me guide you through some of your misconceptions, concerning the nature of collaboration and control.
 
-```java
-public static void main (String[] args) {
-    System.out.println("hello world!");
-}
-```
+You'll find that CS2101 is where you trade your director's hat for an actor's script. It's not just okay to let go, it's _liberating_. The stage is more exhilarating when you share it with others.
 
-## Misconception #1: Control Guarantees Perfection
+## Misconception #1: Control Guarantees Perfection in Presentations
 
-You faced your presentations with a director's mindset, intending to script your group's every move. The approach quickly revealed its flaws. The diversity within your group lead to varying interpretations, which appeared to be a dire threat to the controlled environment you cherished.
+You faced OP1 with a director's mindset, intending to script your group's every move. The approach quickly revealed its flaws.
 
-One vivid instance encapsulated this challenge: during a rehearsal, a debate erupted over defining emotional intelligence as its academic notion—balancing internal self-awareness with external social skills—or its common interpretation as mere social prowess. You sided with the former.
+One vivid instance encapsulated this challenge: during a rehearsal, a debate erupted over defining emotional intelligence as its [academic notion](https://hbr.org/2017/02/emotional-intelligence-has-12-elements-which-do-you-need-to-work-on)—balancing internal self-awareness with external social skills—or its common interpretation as mere social prowess. You sided with the former.
 
-The moment of clarity came when Tae Won illustrated how blending both interpretations could enhance our delivery of emotional intelligence to a general audience. By relating statistics on emotional intelligence in the workplace to our daily student lives, the gap was thus bridged.
+The moment of clarity came when your teammate illustrated how blending both interpretations could enhance your delivery of emotional intelligence to a general audience. By relating [statistics on emotional intelligence in the workplace](https://www.talentsmarteq.com/how-do-you-stack-up-eq-trends-by-industry/) to our student lives, the gap was thus bridged.
 
-Reluctantly, you began to loosen your grip on the reins. This shift, though challenging, was transformative in faciliating a space where ideas could germinate and flourish. This new role required humility and an openness to the unexpected—qualities you hadn't prioritised before,.
+![](../../assets/images/cs2101/eq_statistics.png)
 
-> True mastery of a presentation lies not in directing every detail but in embracing the improvisation of a shared stage.
+Reluctantly, you began to loosen your grip on the reins. This shift was transformative in faciliating a space where ideas could germinate and flourish.
+
+> This new role required humility and an openness to the unexpected—**qualities you hadn't prioritised before.**
 
 ## Misconception #2: Autonomy Breeds Inefficiency
 
-In planning your product pitch, you believed that stepping back would lead to a lack of direction and a chaotic end product.
+While leading the product pitch, you feared that stepping back would lead to a lack of direction and a chaotic end product.
 
-When Boan wanted to use his covid resilience medal as a core component of his presentation, you were skeptical, dismissing it as an overly ambitious endeavour that would dilute our core message. But as he took the lead and implemented his vision, skillfully integrating it into his segment on contact tracing. This led to one of the most engaging segments, where we received thunderous applause for his use of humour and
+When your teammate suggested featuring his [COVID-19 Resilience Medal](https://www.channelnewsasia.com/singapore/covid-19-resilience-medal-award-moh-response-open-letter-4004286), you initially dismissed the prop as overly ambitious. But, reflecting upon your OP1 experience, you begrudgingly decided to support his approach.
 
-Autonomy doesn't mean a lack of coordination or oversight. It's about allowing individual strengths and creativity to come to the forefront. By empowering your team members, you learned that a decenralized approach could yield a richer, more nuanced output.
+![](../../assets/images/cs2101/covid_19_resilience_medal.png)
+
+He led the effort and effectively wove the medal into his feature on contact tracing. This created one of the most captivating parts of the pitch, where we received thunderous applause for his sharp wit.
 
 > True skill lies in knowing when to lead and when to let go, allowing the team's collective capabilities to steer the project towards success.
 
 ## Moving Forward
 
-If you weren't sterring the ship, it would inevitably sink. CS2101 was the iceberg that showed you not all ships need a solitary captian. On this ship, every member's voice had the potential to script the next great scene; you just had to listen. Such diversity led to more innovative outcomes than any solo voyage of yours.
+If you weren't steering the ship, it would inevitably sink. CS2101 was the iceberg that showed you not all ships need a solitary captian.
 
-So, as you embark on this journey, step down from the director's chair, join the ensemble, and play your part with gusto. It’s here, in the shared space of creation and response, that you’ll discover the true strength that comes not from directing every detail, but from harmonizing the many voices, including your own, into a symphony of effective communication.
+On this ship, every member's voice had the potential to script the next great scene; you just had to listen.
 
----
-
-![](../../assets/images/jjajang_test.jpg)
-
-<figcaption>Dog.</figcaption>
+So, as you embark on this journey, step down from the director's chair and join the ensemble. It’s in this shared space that you’ll discover the strength that comes not from directing every detail, but from harmonising the many voices, including your own, into a symphony of **_effective communication_**.
